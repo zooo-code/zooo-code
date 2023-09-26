@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zooo-code
-- 👀 I’m interested in backend & AI
+- 👀 I’m interested in backend
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

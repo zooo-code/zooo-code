@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @zooo-code
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+
+
+- skill
+  - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/> 
+
+
+
 
 <!---
 zooo-code/zooo-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,8 +6,11 @@
 
 
 - skill
-  - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/> 
+  - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Jpa&logoColor=white"/>
 
+- Collaboration
+  - Jira & Confluence
+  
 
 
 

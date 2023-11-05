@@ -15,7 +15,6 @@
     - Jira & Confluence
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 
 <!---
 zooo-code/zooo-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

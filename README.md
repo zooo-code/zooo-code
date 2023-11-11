@@ -13,7 +13,7 @@
 
   - Collaboration
     - Jira & Confluence
-  
+    -  <img src="https://img.shields.io/badge/jira-1E8CBE?style=flat-square&logo=jira&logoColor=white"/>
 
 
 <!---

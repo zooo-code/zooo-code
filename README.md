@@ -26,10 +26,9 @@ Java, springBoot 을 중심으로 백엔드를 개발하고 있습니다.
 ## Skills
 
 - Backend
-
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=뱃지모양&logo=spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=뱃지모양&logo=springboot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=&logo=openjdk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=뱃지모양&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=뱃지모양&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=&logo=openjdk&logoColor=white"/></a>
 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=뱃지모양&logo=kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=뱃지모양&logo=apachetomcat&logoColor=black"/></a>

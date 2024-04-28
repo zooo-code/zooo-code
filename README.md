@@ -1,24 +1,22 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzooo-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 안녕하세요. 꾸준한 개발자 zooo-code 입니다.
 
 Java, springBoot 을 중심으로 백엔드를 개발하고 있습니다.
-<br>
-<br>
+
 <br>
 
 ---
 
 ## 최근 공부에 집중하는 것 
 
-  1. **`Test 코드`** 를 작성합니다.
-  2. **`아키텍처`** 와 `설계`에 대한 고민을 합니다.
-  3. 새로운 언어인 **`Kotlin`** 에 대하여 학습합니다.
-  4. **`좋은 문서 작성`** 과 **`글쓰기`** 를 고민합니다.
-  5. **`협업`** 에 있어 필요한 **`소프트 스킬`** 을 고민합니다.
+  1. **`Test 코드`** 를 작성
+  2. **`아키텍처`** 와 `설계`에 대한 고민
+  3. 새로운 언어인 **`Kotlin`** 에 대하여 학습
+  4. **`좋은 문서 작성`** 과 **`글쓰기`** 를 고민
+  5. **`협업`** 에 있어 필요한 **`소프트 스킬`** 을 고민
 
-
-<br>
-<br>
 <br>
 
 ---

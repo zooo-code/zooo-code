@@ -24,7 +24,7 @@ Java, springBoot 을 중심으로 백엔드를 개발하고 있습니다.
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=&logo=mysql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/mariadb-003545?style=&logo=mariadb&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/oracle-F80000?style=&logo=oracle&logoColor=white"/></a>
 
 - OS
 

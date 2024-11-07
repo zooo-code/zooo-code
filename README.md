@@ -1,7 +1,6 @@
 
 안녕하세요. 꾸준한 개발자 zooo-code 입니다.
 
-Java, springBoot 을 중심으로 백엔드를 개발하고 있습니다.
 
 <br>
 

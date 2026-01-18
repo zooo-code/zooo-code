@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=&logo=kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=&logo=python&logoColor=white"/></a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zooo-code)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zooo-code)](https://github.com/anuraghazra/github-readme-stats)
 
 
